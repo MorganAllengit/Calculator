@@ -2,9 +2,7 @@
 
 I created this app as practise in App building. I did it to help me to figure out how to use android studio code and make better use of kotlin.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=o1KOEOX55vE)
 
 # Development Environment
 
